@@ -1,5 +1,5 @@
 locals {
-    #Debe ser único, ejemplo, alias = "jyapur"
+    #Debe ser único, ejemplo, alias = "jatasayco"
     alias = ""
     #ejemplo, region = "East US 2"
     region = "East US"
